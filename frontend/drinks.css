@@ -1,0 +1,27 @@
+.drinks-container{
+  display: grid;
+  background: fixed;
+  background-image: url();
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.ahh{
+    max-height: 150px;
+}
+
+.drinks{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    padding-left: 150px;
+    padding-right: 150px;
+    column-gap:  20px; ;
+    row-gap:20px;
+  }
+.shacks{
+
+}
+h1{
+    text-align: center;
+    justify-content: center;
+    margin-bottom: 20px;
+}

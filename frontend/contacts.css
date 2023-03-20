@@ -1,0 +1,48 @@
+.contact-start {
+    padding: 50px;
+    text-align: center;
+    background-color:grey;
+    color: black;
+   }
+   .contact-container {
+       
+       border-radius: 10px;
+       margin: 0 100px;
+       box-shadow: 0 4px 8px 0 rgb(red, green, blue);
+   }
+   .contact-box{
+       margin: 8px 0 9px 15px;
+       width: 70vw;
+   }
+   .contact-box p span {
+     font: size 15px; 
+     font-weight:bold;
+     color: black;
+   }
+   .contact-box a {
+       text-decoration: none;
+       
+   }
+   .contact-image {
+       background-size: contain;
+       width: 50px;
+   }
+   body {
+       background-image:url(https://images.unsplash.com/uploads/1413222992504f1b734a6/1928e537?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fGNvbnRhY3QlMjB1c3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60);
+       font-family: 'Times New Roman', Times, serif;
+       font-size: large;
+       background-repeat: no-repeat;
+       background-size: cover;
+       padding-right: 10x;
+   }
+   .social{
+    height:20px
+   }
+   .contact-form{
+    display: flex; 
+    flex-direction: column;
+    align-items: center; 
+    justify-content: center; 
+    margin-left: 400px; 
+    margin-right: 400px; 
+   }
